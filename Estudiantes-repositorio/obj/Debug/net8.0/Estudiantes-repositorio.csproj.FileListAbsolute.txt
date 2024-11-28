@@ -1,0 +1,14 @@
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\bin\Debug\net8.0\Estudiantes-repositorio.deps.json
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\bin\Debug\net8.0\Estudiantes-repositorio.runtimeconfig.json
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\bin\Debug\net8.0\Estudiantes-repositorio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\bin\Debug\net8.0\Estudiantes-repositorio.pdb
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.csproj.AssemblyReference.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.AssemblyInfoInputs.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.AssemblyInfo.cs
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.csproj.CoreCompileInputs.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\refint\Estudiantes-repositorio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.pdb
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\Estudiantes-repositorio.genruntimeconfig.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-repositorio\obj\Debug\net8.0\ref\Estudiantes-repositorio.dll

@@ -1,0 +1,15 @@
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\bin\Debug\net8.0\Estudiantes-negocio.deps.json
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\bin\Debug\net8.0\Estudiantes-negocio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\bin\Debug\net8.0\Estudiantes-negocio.pdb
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.AssemblyInfoInputs.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.AssemblyInfo.cs
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.csproj.CoreCompileInputs.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\refint\Estudiantes-negocio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.pdb
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\ref\Estudiantes-negocio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\bin\Debug\net8.0\Estudiantes-repositorio.dll
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\bin\Debug\net8.0\Estudiantes-repositorio.pdb
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.csproj.AssemblyReference.cache
+C:\Priuebas tecnicas\Interrapidisimo\Estudiantes-backend\Estudiantes-negocio\obj\Debug\net8.0\Estudiantes-negocio.csproj.CopyComplete
